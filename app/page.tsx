@@ -159,7 +159,7 @@ export default function HomePage() {
                 Plan Your Perfect Trip
               </h1>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-                Create personalized itineraries with AI. Just tell us where you want to go, your budget, and how long you'll stay.
+                Create personalized itineraries with AI. Just tell us where you want to go, your budget, and how long you&apos;ll stay.
               </p>
             </div>
           </div>
